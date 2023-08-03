@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavya Sah</h1>
 <h3 align="center">A passionate and aspiring Software Developer from India</h3>
-<img aliign = "right" alt = "coding" width = "400" src ="https://i.gifer.com/372y.gif"
+<img align = "right" alt = "coding" width = "400" src ="https://i.gifer.com/372y.gif"
   
 - 🔭 I’m currently working on **Problem Solving**
 - 🌱 I’m currently learning **DSA, CPP (Programming language)**
