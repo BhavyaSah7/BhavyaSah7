@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Problem Solving**
 - 🌱 I’m currently learning **DSA, CPP (Programming language)**
 - 👯 I’m looking to collaborate on **Building Projects on Technical Development**
-- 📫 How to reach me **sahhavya777@gmail.com**
+- 📫 How to reach me **bhavyasah77@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@bhavya7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@bhavya7" height="30" width="40" /></a>
