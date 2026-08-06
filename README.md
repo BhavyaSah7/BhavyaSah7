@@ -2,8 +2,8 @@
 <h3 align="center">A passionate and aspiring Software Developer from India</h3>
 <img align = "right" alt = "coding" width = "400" src ="https://i.gifer.com/372y.gif"
   
-- 🔭 I'm currently working on **personal projects and preparing for my Master's applications**
-- 🌱 I'm currently learning **System Design, DSA, and exploring AI/ML concepts**
+- 🔭 I'm currently working on **personal projects and upskilling myself**
+- 🌱 I'm currently learning **JS, DSA, and exploring Salesforce concepts**
 - 👯 I'm looking to collaborate on **open source projects, web development, AI/ML, and competitive programming**
 - 📫 How to reach me **bhavyasah77@gmail.com**
 <h3 align="left">Connect with me:</h3>
